@@ -9,8 +9,8 @@
         },
         "sources": [
             {
-                "name": "Galaxy Encryption",
-                "url": "https://github.com/GalaxyGamerYT/Galaxy-Encryption",
+                "name": "GalaxyPersonalLib",
+                "url": "https://github.com/GalaxyGamerYT/Galaxy-Personal-Lib",
                 "verify_ssl": true
             }
         ]

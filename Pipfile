@@ -1,7 +1,7 @@
 [[source]]
-url = "https://github.com/GalaxyGamerYT/Galaxy-Encryption"
+url = "https://github.com/GalaxyGamerYT/Galaxy-Personal-Lib"
 verify_ssl = true
-name = "Galaxy Encryption"
+name = "GalaxyPersonalLib"
 
 [packages]
 cryptography = "*"
