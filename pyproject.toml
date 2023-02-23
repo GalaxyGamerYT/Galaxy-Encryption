@@ -1,0 +1,18 @@
+[build-system]
+requirements = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "Galaxy Encryption"
+version = "0.0.1"
+authors = [
+    { nane="GalaxyGamerYT", email="glaxy@ziggycraft.net" },
+]
+description = "A set of persional functions to use in future projects."
+readme = "README.md"
+requires-python = ">=3.10.1"
+classifiers = [
+    "programming Language :: Python :; 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating Systen :: OS Independent",
+]
