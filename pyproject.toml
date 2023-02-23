@@ -6,11 +6,11 @@ build-backend = "hatchling.build"
 name = "GalaxyPersonalLib"
 version = "0.0.1"
 authors = [
-    { nane="GalaxyGamerYT", email="glaxy@ziggycraft.net" },
+    { name="GalaxyGamerYT", email="glaxy@ziggycraft.net" },
 ]
 description = "A set of personal functions to use in future projects."
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
